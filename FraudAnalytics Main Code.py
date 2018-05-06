@@ -60,7 +60,7 @@ def process(time, transactionsDataDF, rdd):
         scNew = rdd.context
 
         # sqlContext = SQLContext(rdd.context)
-
+    ## A  new Code. 
         sqlContext = SQLContext(scNew)
 
         # Convert RDD[String] to RDD[Row] to DataFrame
