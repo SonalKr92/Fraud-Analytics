@@ -1,2 +1,2 @@
 # Fraud-Analytics
-Realtime check for fraudulent card swipes 
+Realtime check for fraudulent card swipe 
